@@ -1,13 +1,14 @@
-#US House Prediction Using Deep Learning
-Overview
+# US House Prediction Using Deep Learning
+# Overview
 This project aims to predict US House outcomes using deep learning techniques, specifically an Artificial Neural Network (ANN) implemented in Python with TensorFlow. The model achieved an impressive accuracy of 92% in predicting outcomes.
 
-Key Features
+# Key Features
 Predictive Model: Implemented an ANN using TensorFlow to predict US House outcomes.
 High Accuracy: Achieved 92% accuracy through effective model training and dataset exploration.
 Python and TensorFlow: Leveraged Python's versatility and TensorFlow's capabilities for efficient coding and model building.
 Dataset Exploration: Explored diverse datasets to enhance the accuracy and reliability of predictions.
-Tech Stack
+
+# Tech Stack
 Python
 TensorFlow
 Jupyter Notebooks (for data exploration and model development)
@@ -38,13 +39,13 @@ Explore the Jupyter notebooks in the notebooks/ directory for data analysis and 
 
 Run the ANN implementation in the src/ directory.
 
-Usage
+# Usage
 To use the trained model for predictions, follow the steps provided in the Jupyter notebooks or refer to the source code in the src/ directory.
 
-Contribution Guidelines
+# Contribution Guidelines
 If you'd like to contribute to this project, please follow these guidelines:
 
-Fork the repository.
+# Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and submit a pull request.
 Acknowledgments
